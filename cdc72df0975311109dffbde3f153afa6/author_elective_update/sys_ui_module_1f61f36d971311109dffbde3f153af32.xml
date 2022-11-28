@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="aa1">8defa7e9971311109dffbde3f153af95</application>
+        <filter/>
+        <name>DD577s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_926848_aa1.dd577_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:43:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1f61f36d971311109dffbde3f153af32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DD577s</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_update_name>sys_ui_module_1f61f36d971311109dffbde3f153af32</sys_update_name>
+        <sys_updated_by>maxwell.uhl</sys_updated_by>
+        <sys_updated_on>2022-11-21 14:43:59</sys_updated_on>
+        <table>x_926848_aa1_dd577</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="aa1">cdc72df0975311109dffbde3f153afa6</application>
+        <file_path/>
+        <instance_id>89c79327db1e13404c1ff70fbf961983</instance_id>
+        <instance_name>dev60294</instance_name>
+        <name>sys_ui_module_1f61f36d971311109dffbde3f153af32</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="aa1">8defa7e9971311109dffbde3f153af95</application><filter/><name>DD577s</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_926848_aa1.dd577_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>maxwell.uhl</sys_created_by><sys_created_on>2022-11-21 14:43:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1f61f36d971311109dffbde3f153af32</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DD577s</sys_name><sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package><sys_policy/><sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope><sys_update_name>sys_ui_module_1f61f36d971311109dffbde3f153af32</sys_update_name><sys_updated_by>maxwell.uhl</sys_updated_by><sys_updated_on>2022-11-21 14:43:59</sys_updated_on><table>x_926848_aa1_dd577</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1669607799</payload_hash>
+        <record_name>DD577s</record_name>
+        <reverted_from/>
+        <source>41c72df0975311109dffbde3f153afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:43:59</sys_created_on>
+        <sys_id>1b61f36d971311109dffbde3f153af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1849aa55c2f0000001</sys_recorded_at>
+        <sys_updated_by>maxwell.uhl</sys_updated_by>
+        <sys_updated_on>2022-11-21 14:43:59</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5361f36dd9131110b6690959abc11834</update_guid>
+        <update_guid_history>5361f36dd9131110b6690959abc11834:1669607799</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:45:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>399af7d97d5445afa04f93df7af9e9f1</sys_id>
+        <sys_metadata>1f61f36d971311109dffbde3f153af32</sys_metadata>
+        <sys_name>DD577s</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_scope_delete display_value="">04724a162cf1412484ef0e09fde6d490</sys_scope_delete>
+        <sys_update_name>sys_ui_module_1f61f36d971311109dffbde3f153af32</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_1f61f36d971311109dffbde3f153af32">1b61f36d971311109dffbde3f153af34</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

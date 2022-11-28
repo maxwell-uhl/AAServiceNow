@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Marines </label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_926848_aa1_marines</name>
+        <number_ref display_value="USMC ">c7f0f32d971311109dffbde3f153afb7</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="User" name="sys_user">808fca20f90211108c8bd16244dfe7ee</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:37:16</sys_created_on>
+        <sys_id>c73a63a5971311109dffbde3f153af44</sys_id>
+        <sys_name>Marines </sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_update_name>sys_db_object_c73a63a5971311109dffbde3f153af44</sys_update_name>
+        <update_access>false</update_access>
+        <user_role display_value="x_926848_aa1.marines_user" name="x_926848_aa1.marines_user">45ef27e9971311109dffbde3f153afbf</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

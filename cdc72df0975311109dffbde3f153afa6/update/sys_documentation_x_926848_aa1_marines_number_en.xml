@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_926848_aa1_marines">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_926848_aa1_marines</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>maxwell.uhl</sys_created_by>
+            <sys_created_on>2022-11-21 14:42:03</sys_created_on>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+            <sys_update_name>sys_documentation_x_926848_aa1_marines_number_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

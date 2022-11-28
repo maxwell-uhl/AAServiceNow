@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>DD577</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>DD577</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:40:55</sys_created_on>
+        <sys_id>26b0372d971311109dffbde3f153af8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DD577</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_update_name>sys_wizard_answer_26b0372d971311109dffbde3f153af8a</sys_update_name>
+        <sys_updated_by>maxwell.uhl</sys_updated_by>
+        <sys_updated_on>2022-11-21 14:40:55</sys_updated_on>
+        <table/>
+        <target_url>x_926848_aa1_dd577.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="aa1">cdc72df0975311109dffbde3f153afa6</application>
+        <file_path/>
+        <instance_id>89c79327db1e13404c1ff70fbf961983</instance_id>
+        <instance_name>dev60294</instance_name>
+        <name>sys_wizard_answer_26b0372d971311109dffbde3f153af8a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>DD577</answer><button_label/><dependent_value/><element/><name>DD577</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>maxwell.uhl</sys_created_by><sys_created_on>2022-11-21 14:40:55</sys_created_on><sys_id>26b0372d971311109dffbde3f153af8a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DD577</sys_name><sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package><sys_policy/><sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope><sys_update_name>sys_wizard_answer_26b0372d971311109dffbde3f153af8a</sys_update_name><sys_updated_by>maxwell.uhl</sys_updated_by><sys_updated_on>2022-11-21 14:40:55</sys_updated_on><table/><target_url>x_926848_aa1_dd577.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-73658996</payload_hash>
+        <record_name>DD577</record_name>
+        <reverted_from/>
+        <source>d7954be0973211109dffbde3f153af55</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-10-24 12:27:14</sys_created_on>
+        <sys_id>e8113f2d971311109dffbde3f153afae</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18409f618d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>a8113f2d2413111006d89c4a656a11ae</update_guid>
+        <update_guid_history>a8113f2d2413111006d89c4a656a11ae:-73658996</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:42:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>3f058a3ce39c4268b84015126f5e3ea4</sys_id>
+        <sys_metadata>26b0372d971311109dffbde3f153af8a</sys_metadata>
+        <sys_name>DD577</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_parent display_value="Task">a67056e4f90211108c8bd16244dfe708</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_scope_delete display_value="">04724a162cf1412484ef0e09fde6d490</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_26b0372d971311109dffbde3f153af8a</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_26b0372d971311109dffbde3f153af8a">e8113f2d971311109dffbde3f153afae</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

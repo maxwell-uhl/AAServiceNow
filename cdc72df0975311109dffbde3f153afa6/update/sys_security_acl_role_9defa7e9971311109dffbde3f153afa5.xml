@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:37:17</sys_created_on>
+        <sys_id>9defa7e9971311109dffbde3f153afa5</sys_id>
+        <sys_name>x_926848_aa1_marines.x_926848_aa1.marines_user</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_security_acl display_value="x_926848_aa1_marines">d5efa7e9971311109dffbde3f153afa3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9defa7e9971311109dffbde3f153afa5</sys_update_name>
+        <sys_user_role display_value="x_926848_aa1.marines_user" name="x_926848_aa1.marines_user">45ef27e9971311109dffbde3f153afbf</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

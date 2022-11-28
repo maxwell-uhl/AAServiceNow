@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:43:59</sys_created_on>
+        <sys_id>a761f36d971311109dffbde3f153af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_926848_aa1_dd577.x_926848_aa1.dd577_user</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_security_acl display_value="x_926848_aa1_dd577">df61f36d971311109dffbde3f153af75</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a761f36d971311109dffbde3f153af78</sys_update_name>
+        <sys_updated_by>maxwell.uhl</sys_updated_by>
+        <sys_updated_on>2022-11-21 14:43:59</sys_updated_on>
+        <sys_user_role display_value="x_926848_aa1.dd577_user" name="x_926848_aa1.dd577_user">1ab0372d971311109dffbde3f153af48</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="aa1">cdc72df0975311109dffbde3f153afa6</application>
+        <file_path/>
+        <instance_id>89c79327db1e13404c1ff70fbf961983</instance_id>
+        <instance_name>dev60294</instance_name>
+        <name>sys_security_acl_role_a761f36d971311109dffbde3f153af78</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>maxwell.uhl</sys_created_by><sys_created_on>2022-11-21 14:43:59</sys_created_on><sys_id>a761f36d971311109dffbde3f153af78</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_926848_aa1_dd577.x_926848_aa1.dd577_user</sys_name><sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package><sys_policy/><sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope><sys_security_acl display_value="x_926848_aa1_dd577">df61f36d971311109dffbde3f153af75</sys_security_acl><sys_update_name>sys_security_acl_role_a761f36d971311109dffbde3f153af78</sys_update_name><sys_updated_by>maxwell.uhl</sys_updated_by><sys_updated_on>2022-11-21 14:43:59</sys_updated_on><sys_user_role display_value="x_926848_aa1.dd577_user" name="x_926848_aa1.dd577_user">1ab0372d971311109dffbde3f153af48</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-845417508</payload_hash>
+        <record_name>x_926848_aa1_dd577.x_926848_aa1.dd577_user</record_name>
+        <reverted_from/>
+        <source>41c72df0975311109dffbde3f153afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:43:59</sys_created_on>
+        <sys_id>2b61f36d971311109dffbde3f153af7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1849aa55e570000001</sys_recorded_at>
+        <sys_updated_by>maxwell.uhl</sys_updated_by>
+        <sys_updated_on>2022-11-21 14:43:59</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6361f36d43131110c24cfc9da876287a</update_guid>
+        <update_guid_history>6361f36d43131110c24cfc9da876287a:-845417508</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_926848_aa1_dd577.x_926848_aa1.dd577_user">77b17b6d971311109dffbde3f153afba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>maxwell.uhl</sys_created_by>
+        <sys_created_on>2022-11-21 14:45:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>21f0a42c820f4aa98b5bb6eb3faf64e9</sys_id>
+        <sys_metadata>a761f36d971311109dffbde3f153af78</sys_metadata>
+        <sys_name>x_926848_aa1_dd577.x_926848_aa1.dd577_user</sys_name>
+        <sys_package display_value="aa1" source="x_926848_aa1">cdc72df0975311109dffbde3f153afa6</sys_package>
+        <sys_parent display_value="">df61f36d971311109dffbde3f153af75</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="aa1">cdc72df0975311109dffbde3f153afa6</sys_scope>
+        <sys_scope_delete display_value="">04724a162cf1412484ef0e09fde6d490</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_a761f36d971311109dffbde3f153af78</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_a761f36d971311109dffbde3f153af78">2b61f36d971311109dffbde3f153af7a</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
